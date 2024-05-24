@@ -35,3 +35,7 @@ else
 	echo "Error: Unable to initialise..! Initialisation might have already been performed." >&2
 	exit 1
 fi
+
+# Authors:
+# Prajwal N J
+# Sameeksha Keshav
